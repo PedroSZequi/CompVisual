@@ -15,13 +15,12 @@ Algo parecido também pode ser feito com formas ou cores específicas, fazendo c
 
 **Vídeos que mostram essa aplicação:**
 
-https://www.youtube.com/watch?v=f3OnBA2sbKc
+- [Robô seguidor de linha](https://www.youtube.com/watch?v=f3OnBA2sbKc)
+- [Drone seguidor de linha](https://www.youtube.com/watch?v=cXND8kajHrA)
 
-https://www.youtube.com/watch?v=cXND8kajHrA
+**Artigo:**
 
-**Artigo no Medium:**
-
-https://const-toporov.medium.com/line-following-robot-with-opencv-and-contour-based-approach-417b90f2c298
+- [Line Following Robot with OpenCV and Contour Based Approach](https://const-toporov.medium.com/line-following-robot-with-opencv-and-contour-based-approach-417b90f2c298)
 
 ---
 [Voltar para a página inicial](index.md)
