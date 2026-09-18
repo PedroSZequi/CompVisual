@@ -13,7 +13,7 @@ Esse tipo de tecnologia pode ser utilizado em diferentes indústrias, como autom
 ## Artigo e vídeo
 
 - [AI and Computer Vision-based Real-time Quality Control: A Review of Industrial Applications](https://www.sciencedirect.com/science/article/pii/S187705092302207X)
-- [Automated Quality Control Made Easy - In-Sight SnAPP Vision Sensor | Cognex](https://www.youtube.com/watch?v=tFjq1_ccABA)
+- [Automated Quality Control Made Easy - In-Sight SnAPP Vision Sensor](https://www.youtube.com/watch?v=tFjq1_ccABA)
 
 ---
 [Voltar para a página inicial](index.md)
