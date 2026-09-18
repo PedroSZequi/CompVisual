@@ -9,3 +9,5 @@ Pedro Zequi - 10419805 - Turma 07N
 [2. Post 02 - Computação Visual e Robótica - 18/08](post_02.md)
 
 [4. Post 04 - Câmeras térmicas e Visão Computacional - 15/09](post_04.md)
+
+[5. Post 05 - Visão computacional na inspeção de produtos em fábricas - 29/09](post_05.md)
