@@ -13,3 +13,5 @@ Pedro Zequi - 10419805 - Turma 07N
 [5. Post 05 - Visão computacional na inspeção de produtos em fábricas - 29/09](post_05.md)
 
 [6. Post 06 - O microfone visual: recuperando som a partir de vídeo - 13/10](post_06.md)
+
+[7. Post 07 - Vesuvius Challenge: uma competição aberta para ler rolos de 2.000 anos - 27/10](post_07.md)
