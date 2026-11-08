@@ -15,3 +15,5 @@ Pedro Zequi - 10419805 - Turma 07N
 [6. Post 06 - O microfone visual: recuperando som a partir de vídeo - 13/10](post_06.md)
 
 [7. Post 07 - Vesuvius Challenge: uma competição aberta para ler rolos de 2.000 anos - 27/10](post_07.md)
+
+[8. Post 08 - Reflexão final - 10/11](post_08.md)
